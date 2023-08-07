@@ -3,7 +3,7 @@
 	padding: 0px;
 }
 .abc{
-	height: 5500px;
+	height: 6000px;
 	width: 1500px;
 	background-color:white;
 	margin:10px;
@@ -482,7 +482,7 @@ img{
 	width: 1480px;
 }
 .f2{
-	height: 200px;
+	height: 700px;
 	width: 1480px;
 }
 .q{
@@ -490,5 +490,41 @@ img{
 	width: 1480px;
 }
 .f2{
+	background-color:grey;
+}
+.f21{
+	height: 600px;
+	width: 1000px;
+	margin-top: 200px;
 	background-color:white;
+	position: relative;
+	bottom: 100px;
+
+}
+.a22{
+	font-size: 50px;
+	color:blue;
+	margin-bottom: 50px;
+}
+.f211{
+	height: 30px;
+	margin-left: 20px;
+	width: 250px;
+	margin-top: 50px;
+	background-color: lightgrey;
+
+}
+.a23{
+	height: 200px;
+	width: 810px;
+	margin: 30px;
+	background-color: lightgrey;
+}
+.i6{
+	height: 40px;
+	width: 800px;
+	border: None;
+	color: white;
+	background-color: blue;
+	padding: 10px;
 }
